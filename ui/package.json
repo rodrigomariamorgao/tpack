@@ -14,7 +14,7 @@
   },
   "main": "background.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chai-as-promised": "^7.1.1",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
